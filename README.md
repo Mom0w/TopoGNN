@@ -1,1 +1,1 @@
-# AMALTOPO
+# Topological Graph Neural Networks
